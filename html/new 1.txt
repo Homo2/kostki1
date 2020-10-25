@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pl-PL">
+	<head>
+	
+	<title></title>
+	</head>
+	<center> <h1 style="color:black;background-color:yellow"> Rekordowe ułożenia.<h1/> 
+	<body bgcolor="black" text="white"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	<p style="font-size:13px" style="color:white">Copyright &copy; By Homo.</p>
+		</body>
+		<html> 
